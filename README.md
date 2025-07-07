@@ -1,5 +1,5 @@
 # PHYSICS SIMULATIONS FROM HIGH SCHOOL
-### RUN THE SCRPITS PLAY WIL VARIABLES CREATE SIMULATION
+### RUN THE SCRPITS PLAY WITH VARIABLES CREATE SIMULATION
 Everything is done with basic libraries, no need of complex understanding of `PYTHON`
 
 Have `fun!!!!`
